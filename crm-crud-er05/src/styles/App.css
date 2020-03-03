@@ -1,0 +1,8 @@
+.footer-button {
+  height: 100% !important;
+  width: 10% !important;
+  padding: 1rem 1rem !important;
+  border-radius: 0;
+  background-color: #2D7DD2;
+  color: whitesmoke;
+}
